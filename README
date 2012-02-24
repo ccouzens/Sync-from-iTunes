@@ -1,5 +1,7 @@
 Sync from iTunes OSX to Android (USB mass storage device) and Linux (ssh).
 
+These are command line scripts.
+
 These files are tailed for me.
 Before using them, please update the names of the devices to sync to.
 Please update the list of music to not sync across.
