@@ -1,1 +1,0 @@
-/Users/chris/Music/iTunes/iTunes Media/sync_music_with_phone.sh
